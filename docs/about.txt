@@ -1,7 +1,5 @@
 This is a new text in about.txt
 This is second record in about.txt
-This is third record in about.txt
-This is fourth record in about.txt
 ...
 ...
 This is fifty record in about.txt

@@ -1,3 +1,4 @@
+.idea/
 node_modules/
 Nginx-1.9_vhost.conf
 Nginx-1.10_vhost.conf

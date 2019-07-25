@@ -1,1 +1,2 @@
 This is a new text in about.txt
+This is second record in about.txt
